@@ -1,7 +1,7 @@
 {
   "name": "heroku-with-node",
   "version": "0.3.0",
-  "description": "A sample Node.js app using Express 4",
+  "description": "A sample Node.js app using Express 4 ",
   "engines": {
     "node": "16.x"
   },
